@@ -1,0 +1,57 @@
+.socialMedia {
+    height: auto;
+    overflow: hidden
+}
+
+.socialMedia .social {
+    width: 33.33%;
+    float: left;
+    box-sizing: border-box;
+    padding: 100px 0 100px 60px
+}
+
+.socialMedia .social .face {
+    background: #3b5998;
+}
+
+.socialMedia .social .twitter {
+    background: #498cbf;
+}
+
+.socialMedia .social .pin {
+    background: #cc2127;
+}
+
+.socialMedia .social .icon {
+    width: 50px;
+    height: 50px;
+    background: #fff;
+    text-align: center;
+    line-height: 50px;
+    color: #888;
+    float: left;
+    margin-right: 10px
+}
+
+.socialMedia .social p {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #fff
+}
+
+.socialMedia .social p span {
+    display: block;
+    margin-bottom: 8px
+}
+
+.socialMedia .social p span .info2 {
+    font-weight: normal
+}
+
+@media (max-width:991px) {
+    .socialMedia .social {
+        width: 100%;
+        float: none;
+    }
+}
