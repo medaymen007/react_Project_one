@@ -56,19 +56,19 @@
             "id": 1,
             "icon": "icon fa fa-facebook fa-lg",
             "title": "Follow Me on",
-            "body": "social face"
+            "body": " face"
         },
         {
             "id": 2,
             "icon": "icon fa fa-twitter fa-lg",
             "title": "Tweet Me on",
-            "body": "social twitter"
+            "body": " twitter"
         },
         {
             "id": 3,
             "icon": "icon fa fa-pinterest fa-lg",
             "title": "Pin Me on",
-            "body": "social Pinterest"
+            "body": " Pinterest"
         }
     ]
 }
